@@ -5,6 +5,7 @@ Está diseñada para simplificar tareas críticas de administración, diagnósti
 
 🚀 Funcionalidades Principales
 Opción	Módulo	Descripción
+
 01	
 Mantenimiento Total	Realiza una limpieza profunda del sistema. Funcionalidad oculta: Detecta automáticamente una unidad USB conectada y genera un respaldo íntegro del directorio /home en segundo plano.
 
