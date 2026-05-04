@@ -26,3 +26,4 @@ Credenciales SMR	Información sobre la versión del software y créditos del aut
 
 🛠️ Requisitos e Instalación
 Para asegurar el correcto funcionamiento de todos los módulos (especialmente la auditoría de puertos y el respaldo USB), se recomienda ejecutar la herramienta con privilegios de superusuario.
+(Herramienta creada para trabajo escolar de SMR1 sobre malwares en Linux)
